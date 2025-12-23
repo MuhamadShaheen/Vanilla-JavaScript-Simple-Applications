@@ -1,0 +1,11 @@
+.scroller {
+    width: 0px;
+    background-color: rgb(175, 96, 249);
+    height: 10px;
+    position: fixed;
+}
+
+body {
+    margin: 0;
+    height: 4000px;
+}
